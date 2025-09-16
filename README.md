@@ -1,26 +1,17 @@
-# 🌀 Kontekstfølsom Radial Menu
+# Kontekstfølsom Radial Menu
 
-Et banebrydende UI/UX-koncept, der kombinerer 3D-interaktion, kontekstforståelse og intelligent navigation. Denne cirkulære menu opstår præcist dér, hvor brugeren klikker, og tilpasser sig dynamisk til objektet – hvilket skaber en dybt fordybende og intuitiv oplevelse.
+Dette projekt demonstrerer en avanceret UI/UX-funktion: en kontekstfølsom cirkulær menu i en 3D-verden bygget med Three.js og GSAP. Menuen reagerer intelligent på brugerens klik og præsenterer dynamisk indhold baseret på kontekst.
 
-## 🚀 Funktioner
+## Funktioner
+- Raycasting-baseret klikdetektion
+- GSAP-animeret radial menu
+- Dynamisk indhold afhængigt af objekt
+- Hyper-personaliseret navigation
 
-- Radial menu med kontekstbaseret indhold
-- Raycasting i 3D-scene (Three.js)
-- GSAP-animeret unfolding af menupunkter
-- Hyper-personalisering: forskellig menu afhængigt af klik
-- Strategisk CTA’er som “Spørg” og “Hvem er?”
+## Teknologi
+- Three.js
+- GSAP
+- HTML/CSS/JavaScript
 
-## 🧠 Teknologi
-
-- [Three.js](https://threejs.org/) – 3D-visualisering og raycasting
-- [GSAP](https://greensock.com/gsap/) – animationer med høj performance
-- HTML, CSS, JavaScript – frontend struktur og styling
-- Web Speech API (kommende) – voice interaction
-- WebXR (kommende) – spatial VR/AR-oplevelse
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/bysnet/radial-menu.git
-cd radial-menu
-npm install
+## Licens
+© copyright2025 – bysnet
