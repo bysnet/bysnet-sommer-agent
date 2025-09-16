@@ -1,4 +1,4 @@
-# Kontekstfølsom Radial Menu
+# Kontekstfølsom sommer agent
 
 Dette projekt demonstrerer en avanceret UI/UX-funktion: en kontekstfølsom cirkulær menu i en 3D-verden bygget med Three.js og GSAP. Menuen reagerer intelligent på brugerens klik og præsenterer dynamisk indhold baseret på kontekst.
 
