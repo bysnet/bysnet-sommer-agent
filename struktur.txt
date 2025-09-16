@@ -1,8 +1,12 @@
 bysnet-sommer-agent/
-├── index.html
-├── style.css
-├── script.js
+├── index.html                  # Hovedfil med struktur og consent-toggle
+├── style.css                   # Styling af Sommer-cirklen og radial-menu
+├── sommer-core.js              # Click-aware agent + visuel cirkel med "S"
+├── sommer-ai-module.js         # AI-funktioner: Summarize, Explain, Accept/Deny
+├── sommer-context-engine.js    # Kontekstdetektion og intention mapping
+├── sommer-consent.js           # Opt-in / opt-out logik og GDPR-håndtering
 ├── assets/
-│   └── sommer-s.svg
-├── README.md
-└── LICENSE
+│   └── sommer-s.svg            # SVG af fordybet "S" i epicentret
+├── README.md                   # Projektbeskrivelse og dokumentation
+└── LICENSE                     # Licensfil (f.eks. MIT eller copyright2025)
+
