@@ -12,6 +12,3 @@ Dette projekt demonstrerer en avanceret UI/UX-funktion: en kontekstfølsom cirku
 - Three.js
 - GSAP
 - HTML/CSS/JavaScript
-
-## Licens
-© copyright2025 – bysnet
